@@ -1,7 +1,7 @@
 {
- "version": "5.3.1",
- "file": "Al-Halba_v5.3.1_update.zip",
- "md5": "8ec38599de1faceabdc8e762af4900c6",
- "notes": "تصليح: تحديث 5.3.0 كان ناقصه ملف وبيوقّف اللعبة",
- "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.3.1/Al-Halba_v5.3.1_update.zip"
+ "version": "5.3.2",
+ "file": "Al-Halba_v5.3.2_update.zip",
+ "md5": "6539b7e8b1131053382795e9134f4db7",
+ "notes": "أسماء الأجوبة بالإنكليزي للمقدّمين + الشات بيقدر يجاوب بالإنكليزي + فحص تحديث أدق",
+ "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.3.2/Al-Halba_v5.3.2_update.zip"
 }
