@@ -1,7 +1,7 @@
 {
- "version": "5.2.0",
- "file": "Al-Halba_v5.2.0_update.zip",
- "md5": "0624bd5710524a3ee791f8a549854bd5",
- "notes": "تحديث تلقائي من داخل اللعبة + 9 حلقات + شات TikTok",
- "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.2.0/Al-Halba_v5.2.0_update.zip"
+ "version": "5.3.0",
+ "file": "Al-Halba_v5.3.0_update.zip",
+ "md5": "38f334c97dfdec73c8e6b5c2db3b5b54",
+ "notes": "تصويت Twitch بكبسة عالشاشة (Twitch Polls) + تصليح ملف التحديث",
+ "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.3.0/Al-Halba_v5.3.0_update.zip"
 }
