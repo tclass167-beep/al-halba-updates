@@ -1,7 +1,7 @@
 {
- "version": "5.3.0",
- "file": "Al-Halba_v5.3.0_update.zip",
- "md5": "38f334c97dfdec73c8e6b5c2db3b5b54",
- "notes": "تصويت Twitch بكبسة عالشاشة (Twitch Polls) + تصليح ملف التحديث",
- "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.3.0/Al-Halba_v5.3.0_update.zip"
+ "version": "5.3.1",
+ "file": "Al-Halba_v5.3.1_update.zip",
+ "md5": "8ec38599de1faceabdc8e762af4900c6",
+ "notes": "تصليح: تحديث 5.3.0 كان ناقصه ملف وبيوقّف اللعبة",
+ "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.3.1/Al-Halba_v5.3.1_update.zip"
 }
