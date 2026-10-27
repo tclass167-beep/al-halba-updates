@@ -1,7 +1,7 @@
 {
- "version": "5.3.4",
- "file": "Al-Halba_v5.3.4_update.zip",
- "md5": "12e4a7d775c87a90f4ceecc560ef4aa7",
- "notes": "كل الأسماء صارت مكتوبة بالإنكليزي جنب العربي (Messi، C. Ronaldo...) ومرتّبة صح من اليمين للشمال",
- "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.3.4/Al-Halba_v5.3.4_update.zip"
+ "version": "5.3.5",
+ "file": "Al-Halba_v5.3.5_update.zip",
+ "md5": "2df6271b0934e1af3049d66409571061",
+ "notes": "تدقيق كامل: صح ولا كذبة بـ«هل»، تصليح الترجمات، والزر الرئيسي بينقلك عالفقرة الجاية",
+ "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.3.5/Al-Halba_v5.3.5_update.zip"
 }
