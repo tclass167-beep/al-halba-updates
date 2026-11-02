@@ -1,7 +1,7 @@
 {
- "version": "5.4.4",
- "file": "Al-Halba_v5.4.4_update.zip",
- "md5": "c47081c0c929f8f426180563eef3d756",
- "notes": "دولاب العقاب صار ينقرا + الجمهور فوق الكاميرات + الكروت ما بقى تغطّي حدا",
- "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.4.4/Al-Halba_v5.4.4_update.zip"
+ "version": "5.4.5",
+ "file": "Al-Halba_v5.4.5_update.zip",
+ "md5": "f8c7c1d83c68f488bcef377ab4ab340c",
+ "notes": "فقرة الأسئلة: ضيفين بس، وكاميرات المذيعين بالنص مع مسافة. بعد التحديث كبّس «ركّب سينات OBS»",
+ "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.4.5/Al-Halba_v5.4.5_update.zip"
 }
