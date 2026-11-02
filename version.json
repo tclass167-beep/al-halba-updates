@@ -1,7 +1,7 @@
 {
- "version": "5.4.5",
- "file": "Al-Halba_v5.4.5_update.zip",
- "md5": "f8c7c1d83c68f488bcef377ab4ab340c",
- "notes": "فقرة الأسئلة: ضيفين بس، وكاميرات المذيعين بالنص مع مسافة. بعد التحديث كبّس «ركّب سينات OBS»",
- "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.4.5/Al-Halba_v5.4.5_update.zip"
+ "version": "5.4.6",
+ "file": "Al-Halba_v5.4.6_update.zip",
+ "md5": "7e9ee872c5f6e88c4bab4fe313b80a3e",
+ "notes": "مربّع الشات بـ OBS صار نظيف (ما في كاميرا وراه) والكتابة أكبر، وتركيب السينات ما بقى يمحي إعداداتك",
+ "url": "https://github.com/tclass167-beep/al-halba/raw/main/releases/v5.4.6/Al-Halba_v5.4.6_update.zip"
 }
